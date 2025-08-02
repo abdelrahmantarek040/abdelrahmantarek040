@@ -1,10 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/abdelrahmantarek040/abdelrahmantarek040/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/abdelrahmantarek040" alt="Hello Coders" width="60%"/> 
+<img src="https://raw.githubusercontent.com/abdelrahmantarek040/abdelrahmantarek040/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/>
 
-<h2>Hi, I'm Abdelrahman Tarek 👋</h2>
-<p><i> Software Engineer | Web Developer | Frontend & Backend Developer💻</i></p>
-
+<h1>Hi, I'm Abdelrahman Tarek 👋</h1>
+<h3>Software Engineer | Web Developer | Frontend & Backend Developer💻</h3>
+<p>
+  👨‍💻 I'm Abdelrahman Tarek, a software engineer & web developer focused on building secure, scalable web apps using HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, and MySQL.
+Passionate about clean code, problem-solving, and delivering great user experiences.
+</p>
 <a href="https://github.com/yourusername">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=orange&label=PROFILE+VIEWS" />
 </a>
