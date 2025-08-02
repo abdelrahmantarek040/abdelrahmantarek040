@@ -3,13 +3,13 @@
 <img src="https://github.com/abdelrahmantarek040/abdelrahmantarek040/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/abdelrahmantarek040" alt="Hello Coders" width="60%"/> 
 
 <h2>Hi, I'm Abdelrahman Tarek 👋</h2>
-<p><i> Software Engineer| Web Developer| Frontend & Backend Developer</i></p>
+<p><i> Software Engineer | Web Developer | Frontend & Backend Developer💻</i></p>
 
 <a href="https://github.com/yourusername">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat&color=orange&label=PROFILE+VIEWS" />
 </a>
-<a href="https://t.me/yourtelegram">
-  <img src="https://img.shields.io/badge/Telegram-Abdelrahman-blue?style=flat&logo=telegram" />
+<a href="https://abdelrahmantarek.neocities.org/">
+  <img src="https://img.shields.io/badge/Portfolio-Abdelrahman-blue?style=flat&logo=Portfolio" />
 </a>
 
 ---
