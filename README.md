@@ -35,6 +35,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ADO.NET Framework](https://img.shields.io/badge/ADO.NET_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
